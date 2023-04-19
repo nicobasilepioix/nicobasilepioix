@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hola, termine el segundo curso de introducción
 <!--
 **nicobasilepioix/nicobasilepioix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
